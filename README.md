@@ -1,5 +1,15 @@
 # Python TDD
 
+## Warning
+
+If you are having problems executing the .py files, something like *ModuleNotFoundError: No module named 'modules'*, try to run the **init.sh** file, lie this:
+
+``` bash
+sh init.sh
+```
+
+On your terminal (in the same folder of the **init.sh** file).
+
 ## The Three laws of TDD
 
 by***Robert C. Martin*** *(Uncle BOB)*.\
