@@ -19,12 +19,18 @@ fail test -> fix code -> pass test -> fail new test ...
 > **1.** You may not write production code unless you've first
 > written a **failing unit test**.
 
+Basically write a failing test first.
+
 ---
 
 > **2.** You may not write not write more of a unit test than is **sufficient to fail**.
 
+So, write just enough test to fail
+
 ---
 
 > **3.** You may not write more production code than is **sufficient to** make the **failing unit test pass**.
+
+Finally, write just enough code to pass.
 
 ---
